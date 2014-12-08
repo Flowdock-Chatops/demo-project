@@ -3,3 +3,6 @@ rvm:
   - 2.1.5
 notifications:
   flowdock: de9f3d8dce48b98c1ec3ebea81d04ad6
+env:
+  - SECRET_KEY_BASE="$(bundle exec rake secret)"
+  - RAILS_ENV=test
