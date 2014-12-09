@@ -31,6 +31,7 @@ gem 'spring',        group: :development
 # Use unicorn as the app server
 group :production do
   gem 'unicorn'
+  gem 'rails_12factor'
 end
 
 # Use Capistrano for deployment
