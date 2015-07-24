@@ -1,7 +1,7 @@
 demo-project
 ============
 
-Chatops demo project.
+Chatops demo project!
 
 This is live in:
   * production environment [https://chatops-demo-app.herokuapp.com/](https://chatops-demo-app.herokuapp.com/).
